@@ -1,0 +1,5 @@
+
+.iconCss:active {
+  transition: ease-in-out 75ms;
+  background-color: rgba(0, 0, 0, 0.1);
+}

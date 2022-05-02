@@ -1,0 +1,9 @@
+.header {
+  border-bottom: 1px solid rgba(177, 177, 177, 1);
+  padding: 0 1rem;
+  height: 6.5vh;
+  font-weight: bold;
+  text-align: left;
+  align-items: center;
+}
+
